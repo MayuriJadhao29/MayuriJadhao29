@@ -11,7 +11,7 @@ I'm always open to collaboration, learning opportunities, and interesting tech d
 - 🔭 **Working on:** Data analysis projects and real-time data dashboards (Stock Market Analysis, Data Cleaning & Visualization projects)
 - 🌱 **Learning:** Python and SQL for Data Cleaning and Analysis, Data Visualization, Web Scraping, and Dashboard tools like Power BI
 - 👯 **Open to collaborate on:** Data analysis projects, Python tools, and beginner-friendly open source projects
-- 🤔 **Currently exploring:**Currently exploring data modeling techniques and building interactive dashboards for data-driven decision making.
+- 🤔 **Currently exploring:** Currently exploring data modeling techniques and building interactive dashboards for data-driven decision making.
 - 💬 **Ask me about:** Python, Data Analysis, SQL basics, and beginner data projects
 
 ## 🌐 Socials:
